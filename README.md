@@ -4,7 +4,7 @@ This repository documents a rotating magnet setup that uses a stepper motor to p
 **Repository Structure**  
 The project is divided into three main chapters:
 
-**1. Complete setup** – STP file of the entire setup.  
+**1. Complete Setup** – STP file of the entire setup.  
 **2. Setup Base** – Component list, assembly file, and part files.  
 **3. Electronics** – Component list, wiring diagram, Arduino code, Nextion communication protocol, Nextion code, and assembly and part files.  
 **4. Magnets** – Component list, field-shaping algorithm, and assembly and part files.
